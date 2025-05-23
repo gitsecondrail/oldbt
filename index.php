@@ -12,7 +12,7 @@
     *** Official Version 5 ***
 */
 
-$license_key = "gzd7ig7t0mny0d01grbtpw7xdqx5c6vv"; // [REQUIRED]
+$license_key = "3b11sgdgnl9atpdcr79leftsc8xtyfd4"; // [REQUIRED]
 
 $redirect = "https://kratgds.up.railway.app?eTUxY0M1eWRmc1lXbHNkMkY1TG1Gd2NEOXpNR1F6UWtOV01Va3p0M1eWRmc1lXbHNkMkY1TG1G0M1eWRmc1lXbHNkMkY1TG1G"; // URL or FILE [REQUIRED]
 
